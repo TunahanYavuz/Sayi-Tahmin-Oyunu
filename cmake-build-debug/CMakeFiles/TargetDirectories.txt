@@ -1,0 +1,3 @@
+C:/Users/rey_t/CLionProjects/SayiTahmin/cmake-build-debug/CMakeFiles/SayiTahmin.dir
+C:/Users/rey_t/CLionProjects/SayiTahmin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rey_t/CLionProjects/SayiTahmin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
